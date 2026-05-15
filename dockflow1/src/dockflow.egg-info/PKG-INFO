@@ -1,0 +1,24 @@
+Metadata-Version: 2.4
+Name: dockflow
+Version: 1.0.0
+Summary: Automated molecular docking pipeline (Vina + RDKit + PDBFixer)
+Author: dockflow
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Topic :: Scientific/Engineering :: Bio-Informatics
+Requires-Python: >=3.9
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: pyyaml
+Requires-Dist: tqdm
+Requires-Dist: rich
+Requires-Dist: fastapi
+Requires-Dist: uvicorn
+Requires-Dist: openmm
+Requires-Dist: pdbfixer
+Requires-Dist: rdkit
+Dynamic: author
+Dynamic: classifier
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary

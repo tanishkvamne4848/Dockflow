@@ -1,0 +1,2 @@
+[console_scripts]
+dockflow = cli:main

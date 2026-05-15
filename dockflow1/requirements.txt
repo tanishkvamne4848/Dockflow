@@ -1,0 +1,12 @@
+numpy
+pandas
+pyyaml
+tqdm
+rich
+rdkit
+openmm
+pdbfixer
+fastapi
+uvicorn
+setuptools
+wheel

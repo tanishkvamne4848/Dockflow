@@ -1,0 +1,22 @@
+# ===============================
+# DOCKFLOW CONFIGURATION
+# ===============================
+
+grid:
+  size_x: 20
+  size_y: 20
+  size_z: 20
+
+vina:
+  exhaustiveness: 8
+  num_modes: 9
+
+ligand:
+  max_tautomers: 3
+
+filters:
+  score_threshold: -7.0
+
+runtime:
+  max_workers: 4
+  top_n: 10
