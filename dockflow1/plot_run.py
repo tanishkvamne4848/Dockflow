@@ -1,6 +1,6 @@
-from utils.plots import generate_score_distribution
+from plots import generate_score_distribution
 
 generate_score_distribution(
-    "results.csv",
-    "distribution.png"
+    "input_path/results.csv",
+    "output_path/distribution.png"
 )
